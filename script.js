@@ -146,7 +146,7 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["SELAMAT TAHUN BARU", " ", "Hai semua,enggak terasa ya udah tahun 2022 lagi", " ","Yuk kita Awali dengan Do'a", "<b>Alhamdulillah kita masih diberikan umur oleh Allah SWT untuk menginjak tahun baru</b>", "Bersyukurlah","","Bagi mereka yang saat ini masih tetap diberi kesehatan","","Bagi mereka yang masih mempunyai kedua orang tua lengkap dan masih diberi kesempatan untuk berbakti","", "","Bagi mereka yang punya cukup materi", " ", "-Salam Dedi... :)"],
+  strings: ["SELAMAT TAHUN BARU","Hai semua,enggak terasa ya udah tahun 2022 lagi", " ","Yuk kita Awali dengan Do'a", "<b>Alhamdulillah kita masih diberikan umur oleh Allah SWT untuk menginjak tahun baru</b>", "Bersyukurlah","","Bagi mereka yang saat ini masih tetap diberi kesehatan","","Bagi mereka yang masih mempunyai kedua orang tua lengkap dan masih diberi kesempatan untuk berbakti","", "","Bagi mereka yang punya cukup materi", " ", "-Salam Dedi... :)"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
