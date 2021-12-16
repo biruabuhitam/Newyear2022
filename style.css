@@ -8,7 +8,7 @@ html {
 .bg {
   /* Location of the image */
   background-image: url(Assets/doa.jpeg);
-  background-position: center center;
+  background-position: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
   
