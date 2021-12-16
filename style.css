@@ -8,7 +8,7 @@ html {
 .bg {
   /* Location of the image */
   background-image: url(Assets/doa.jpeg);
-  background-position: 100%;
+  background-position:center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   
@@ -19,7 +19,7 @@ html {
   /* Set a background color that will be displayed
      while the background image is loading */
   background-color: #FEC0CD;
-  height: 100%;
+  height: auto;
 }
 .img {
     display: inline-block;
