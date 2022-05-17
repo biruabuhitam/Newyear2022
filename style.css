@@ -32,7 +32,15 @@ html {
   }
   
   #tap {
-    display: inline-block;
+  width: 50%;
+  text-align: center;
+  margin: 20px auto;
+  margin-bottom: 30px;
+  padding: 50px 15px;
+  background-color: #ced7ef;
+  color: gray;
+  vertical-align: middle;
+}
     box-shadow: -5px -5px 30px 5px red, 5px 5px 30px 5px blue;
    
     
