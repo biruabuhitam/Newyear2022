@@ -146,14 +146,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["SELAMAT TAHUN BARU","Hai semua,enggak terasa ya udah tahun 2022 lagi", " ","Yuk kita Awali dengan Do'a", "<b>Alhamdulillah kita masih diberikan umur oleh Allah SWT untuk menginjak tahun baru</b>", "Bersyukurlah","","Bagi mereka yang saat ini masih tetap diberi kesehatan","","Bagi mereka yang masih mempunyai kedua orang tua lengkap dan masih diberi kesempatan untuk berbakti","", "","Bagi mereka yang punya cukup materi", " ", "-Salam Dedi... :)"],
+  strings: ["SELAMAT TAHUN BARU","Hai semua,enggak terasa ya udah tahun 2022 lagi", " ","Yuk kita Awali dengan Do'a", "<b>Alhamdulillah kita masih diberikan umur oleh Allah SWT untuk menginjak tahun baru</b>", "Bersyukurlah","","Bagi mereka yang saat ini masih tetap diberi kesehatan","","Bagi mereka yang punya orang orang terdekat dan masih tetap bersama","", "","Bagi mereka yang punya sahabat tapi masih tetap utuh", " ", "-Salam Dedi... :)"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Resolusi tahun Baru kamu apa?", "Kalau aku sih berharap pas malam tahun baru nya jangan tanggal Tua terus", "","pengennya ga tua tapi engga bisa ya,gpp tetep jiwa muda aja deh", "", "pengen lebih baik tapi baik aja dulu deh lebihnya mah nanti","soalnya yang berat  konsisten haha.","","BERCANDA DEH","","Sebenarnya","","harapan tahun ini yang URGENT buatku itu","","semoga naik haji haha","eh Naik Gaji maksudnya","","", "Tahun Baru 2022 dirumah aja,semoga bisa bangun pagi",],
+  strings: ["Resolusi tahun Baru kamu apa?", "Kalau aku sih berharap pas malam tahun baru nya jangan tanggal Tua terus", "","biar besok nya gajian", "", "pengen orang orang tetap utuh tidak berubah","karena perubahan itu sedikit manyakitkan.","","APALAGI YAH","","Sebenarnya","","harapan tahun ini yang URGENT buatku itu","","semoga naik haji haha","eh Naik Gaji maksudnya","","", "Tahun Baru 2022 dirumah aja,semoga bisa bangun pagi","Biar besok nya gajian","","pengen orang orang tetap utuh tidak berubah","karena perubahan itu sedikit manyakitkan.","","APALAGI YAH","","Sebenarnya","","harapan tahun ini yang URGENT buatku itu","","semoga naik haji haha","eh Naik Gaji maksudnya","","",""Tahun Baru 2022 dirumah aja,semoga bi],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
