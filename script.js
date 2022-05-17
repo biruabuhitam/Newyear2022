@@ -153,7 +153,7 @@ new TypeIt("#teks1", {
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Resolusi tahun Baru kamu apa?", "Kalau aku sih berharap pas malam tahun baru nya jangan tanggal Tua terus", "","biar besok nya gajian", "", "pengen orang orang tetap utuh tidak berubah","karena perubahan itu sedikit manyakitkan.","","APALAGI YAH","","Sebenarnya","","harapan tahun ini yang URGENT buatku itu","","semoga naik haji haha","eh Naik Gaji maksudnya","","", "Tahun Baru 2022 dirumah aja,semoga bisa bangun pagi","Biar besok nya gajian","","pengen orang orang tetap utuh tidak berubah","karena perubahan itu sedikit manyakitkan.","","APALAGI YAH","","Sebenarnya","","harapan tahun ini yang URGENT buatku itu","","semoga naik haji haha","eh Naik Gaji maksudnya","","",""Tahun Baru 2022 dirumah aja,semoga bi],
+  strings: ["Resolusi tahun Baru kamu apa?", "Kalau aku sih berharap pas malam tahun baru nya jangan tanggal Tua terus", "","biar besok nya gajian", "", "pengen orang orang tetap utuh tidak berubah","karena perubahan itu sedikit manyakitkan.","","APALAGI YAH","","Sebenarnya","","harapan tahun ini yang URGENT buatku itu","","semoga naik haji haha","eh Naik Gaji maksudnya","","", "Tahun Baru 2022 dirumah aja,semoga bisa bangun pagi","Biar besok nya gajian","","pengen orang orang tetap utuh tidak berubah","karena perubahan itu sedikit manyakitkan.","","APALAGI YAH","","Sebenarnya","","harapan tahun ini yang URGENT buatku itu","","semoga naik haji haha","eh Naik Gaji maksudnya"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
